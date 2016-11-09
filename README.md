@@ -34,9 +34,12 @@ https://goo.gl/forms/or649BOqFreR6CXa2
 </a>
 
 <a href="http://gomus.com.br" target="_blank">
-<img height="50" src="https://yt3.ggpht.com/-dtoe_n8i9c8/AAAAAAAAAAI/AAAAAAAAAAA/Zcz8gz3xdbA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" >
+<img height="60" src="https://yt3.ggpht.com/-dtoe_n8i9c8/AAAAAAAAAAI/AAAAAAAAAAA/Zcz8gz3xdbA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" >
 </a>
 
+<a href="http://www.grupobrmed.com.br" target="_blank">
+<img height="60" src="http://www.grupobrmed.com.br/img/imgsbrmed/logo.png" >
+</a>
 
 
 
