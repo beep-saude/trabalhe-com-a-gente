@@ -1,1 +1,14 @@
-# trabalhe-com-a-gente
+# Quem somos?
+
+"Nosso foco é realizar seed investment de uma maneira diferente, ao invés de simplesmente injetar capital em empresas que estão começando, entregamos esse investimento em forma de mentoria e desenvolvimento de tecnologia, por isso todo nosso portfólio é focado em empresas que usam software como seu diferencial. :
+
+# Para quem é essa vaga?
+
+Se você é apaixonado por desenvolvimento de software, se enche de orgulho quando vê um produto que desenvolveu resolvendo um problema real no dia a dia de alguém, tem espírito empreendedor e se ja teve experiencia com 3 ou mais desses nomes abaixo, então essa vaga é pra você! :)
+
+# Qual é a remuneração?
+
+Depende do seu nível de conhecimento e experiência, nosso plano de cargos e salários vai de 3k á 11k  + Beneficios.
+Local de trabalho:
+Nosso escritório fica no centro do Rio, mas se você não mora na cidade maravilhosa ou gosta de trabalhar de casa, não tem problema, é possível trabalhar remoto, desde que vc tenha disponibilidade para viajar vez ou outra para se reunir com o time.
+
