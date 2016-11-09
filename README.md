@@ -1,3 +1,5 @@
+![alt tag](https://s3-sa-east-1.amazonaws.com/site-elo/files/innvent.png)
+
 # Quem somos?
 
 "Nosso foco é realizar seed investment de uma maneira diferente, ao invés de simplesmente injetar capital em empresas que estão começando, entregamos esse investimento em forma de mentoria e desenvolvimento de tecnologia, por isso todo nosso portfólio é focado em empresas que usam software como seu diferencial. :
