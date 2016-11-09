@@ -24,12 +24,11 @@ https://goo.gl/forms/or649BOqFreR6CXa2
 
 # Se quiser saber mais da uma olhada no nosso portfólio e conheça um pouco mais dos projetos que estamos desenvolvendo:
 
-First Header | Second Header
------------- | -------------
-
 <a href="www.ativore.com" target="_blank">
 <img height="40" src="http://ativore.com/wp-content/themes/ativore/images/logo-ativore-white.png" >
-</a>
+</a>| Second Header
+------------ | -------------
+
 
 
 <a href="http://beepsaude.com.br" target="_blank">
