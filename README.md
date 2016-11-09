@@ -1,7 +1,7 @@
 <img height="70" src="https://s3-sa-east-1.amazonaws.com/site-elo/files/innvent.png" >
 # Quem somos?
 
-"Nosso foco é realizar seed investment de uma maneira diferente, ao invés de simplesmente injetar capital em empresas que estão começando, entregamos esse investimento em forma de mentoria e desenvolvimento de tecnologia, por isso todo nosso portfólio é focado em empresas que usam software como seu diferencial. :
+Nosso foco é realizar seed investment de uma maneira diferente, ao invés de simplesmente injetar capital em empresas que estão começando, entregamos esse investimento em forma de mentoria e desenvolvimento de tecnologia, por isso todo nosso portfólio é focado em empresas que usam software como seu diferencial. :
 
 # Para quem é essa vaga?
 
@@ -13,3 +13,6 @@ Depende do seu nível de conhecimento e experiência, nosso plano de cargos e sa
 Local de trabalho:
 Nosso escritório fica no centro do Rio, mas se você não mora na cidade maravilhosa ou gosta de trabalhar de casa, não tem problema, é possível trabalhar remoto, desde que vc tenha disponibilidade para viajar vez ou outra para se reunir com o time.
 
+# Se interessou? 
+Preencha o formulário abaixo e participe do nosso processo seletivo.
+https://goo.gl/forms/or649BOqFreR6CXa2
