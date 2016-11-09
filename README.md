@@ -3,8 +3,19 @@
 
 Nosso foco é realizar seed investment de uma maneira diferente, ao invés de simplesmente injetar capital em empresas que estão começando, entregamos esse investimento em forma de mentoria e desenvolvimento de tecnologia, por isso todo nosso portfólio é focado em empresas que usam software como seu diferencial. :
 
+```javascript
+alert("I <3 JavaScript");
+```
+ 
+```python
+print "Python :)"
+```
+```ruby
+p "Ruby : - )"
+```
 
-''A maioria dos nossos projetos hoje são web ou mobile (Android e IOS)
+
+"Ah! A maioria dos nossos projetos hoje são web ou mobile (Android e IOS)"
 
 # Para quem é essa vaga?
 
