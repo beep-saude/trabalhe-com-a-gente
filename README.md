@@ -20,3 +20,12 @@ Nosso escritório fica no centro do Rio, mas se você não mora na cidade maravi
 # Se interessou? 
 Preencha o formulário abaixo e participe do nosso processo seletivo.
 https://goo.gl/forms/or649BOqFreR6CXa2
+
+
+# Se quiser saber mais da uma olhada no nosso portfólio e conheça um pouco mais dos projetos que estamos desenvolvendo:
+
+<a href="ativore.com" target="_blank">
+<img height="40" src="http://ativore.com/wp-content/themes/ativore/images/logo-ativore-white.png" >
+</a>
+
+Ativore, Beep, BRMED, Gomus, Touts, Minha Corrida.
