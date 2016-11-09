@@ -41,6 +41,17 @@ https://goo.gl/forms/or649BOqFreR6CXa2
 <img height="60" src="http://www.grupobrmed.com.br/img/imgsbrmed/logo.png" >
 </a>
 
+<a href="https://touts.com.br" target="_blank">
+<img height="60" src="https://touts.com.br/logo_touts.png" >
+</a>
+
+
+<a href="http://minhacorridaapp.com.br" target="_blank">
+<img height="60" src="https://s3.amazonaws.com/minhacorrida/site/img/logo-minha-corrida.png" >
+</a>
+
+
+
 
 
 Ativore, Beep, BRMED, Gomus, Touts, Minha Corrida.
