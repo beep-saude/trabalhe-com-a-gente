@@ -7,15 +7,15 @@ Nosso foco é realizar seed investment de uma maneira diferente, ao invés de si
 
 # Para quem é essa vaga?
 
-Se você é apaixonado por desenvolvimento de software, se enche de orgulho quando vê um produto que desenvolveu resolvendo um problema real no dia a dia de alguém, tem espírito empreendedor e se ja teve experiencia com 3 ou mais desses nomes abaixo, então essa vaga é pra você! :)
+Se você é apaixonado por desenvolvimento de software, se enche de orgulho quando vê um produto que desenvolveu resolvendo um problema real no dia a dia de alguém, tem espírito empreendedor e se já teve experiência com 3 ou mais desses nomes abaixo, então essa vaga é pra você! :)
 
 RUBY, PYTHON, JAVASCRITPT , SWIFT, JAVA, POSTGRESSQL, AWS, GIT, NGNIX, RAILS, DJANGO, MYSQL, FLIGHT SIMULATOR, CS, ANGULARJS, REACTJS, OO, DDD, HTML5, CSS3, SASS, ANSIBLE, BATTLEFIELD, DOCKER 
 
 # Qual é a remuneração?
 
-Depende do seu nível de conhecimento e experiência, nosso plano de cargos e salários vai de 3k à 11k  + Beneficios.
+Depende do seu nível de conhecimento e experiência, nosso plano de cargos e salários vai de 3k à 11k  + Benefícios.
 Local de trabalho:
-Nosso escritório fica no centro do Rio, mas se você não mora na cidade maravilhosa ou gosta de trabalhar de casa, não tem problema, é possível trabalhar remoto, desde que vc tenha disponibilidade para viajar vez ou outra para se reunir com o time.
+Nosso escritório fica no centro do Rio, mas se você não mora na cidade maravilhosa ou gosta de trabalhar de casa, não tem problema, é possível trabalhar remoto, desde que você tenha disponibilidade para viajar vez ou outra para se reunir com o time.
 
 # Se interessou? 
 Preencha o formulário abaixo e participe do nosso processo seletivo.
