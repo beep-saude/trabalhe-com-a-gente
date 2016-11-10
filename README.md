@@ -13,7 +13,7 @@ RUBY, PYTHON, JAVASCRITPT , SWIFT, JAVA, POSTGRESSQL, AWS, GIT, NGNIX, RAILS, DJ
 
 # Qual é a remuneração?
 
-Depende do seu nível de conhecimento e experiência, nosso plano de cargos e salários vai de 3k à 11k  + Benefícios.
+Depende do seu nível de conhecimento e experiência, nosso plano de cargos e salários vai de 3k à 12k  + Benefícios.
 Local de trabalho:
 Nosso escritório fica no centro do Rio, mas se você não mora na cidade maravilhosa ou gosta de trabalhar de casa, não tem problema, é possível trabalhar remoto, desde que você tenha disponibilidade para viajar vez ou outra para se reunir com o time.
 
