@@ -1,13 +1,13 @@
 <img height="70" src="https://s3-sa-east-1.amazonaws.com/site-elo/files/innvent.png" >
 # Quem somos?
 
-Nosso foco é realizar seed investment de uma maneira diferente, ao invés de simplesmente injetar capital em empresas que estão começando, entregamos esse investimento em forma de mentoria e desenvolvimento de tecnologia, por isso todo nosso portfólio é focado em empresas que usam software como seu diferencial. :
+Nosso foco é realizar seed investment de uma maneira diferente, ao invés de simplesmente injetar capital em empresas que estão começando, investimos em mentoria e desenvolvimento tecnológico. Todo nosso portfólio é focado em empresas que usam software como seu diferencial.
 
 "Ah! A maioria dos nossos projetos hoje são web ou mobile (Android e IOS)"
 
 # Para quem é essa vaga?
 
-Se você é apaixonado por desenvolvimento de software, se enche de orgulho quando vê um produto que desenvolveu resolvendo um problema real no dia a dia de alguém, tem espírito empreendedor e se já teve experiência com 3 ou mais desses nomes abaixo, então essa vaga é pra você! :)
+Se você é apaixonado por desenvolvimento de software, se enche de orgulho quando vê seu trabalho resolvendo um problema real do dia a dia, tem espírito empreendedor e já teve experiência com 3 ou mais desses nomes abaixo, então essa vaga é pra você! :)
 
 RUBY, PYTHON, JAVASCRITPT , SWIFT, JAVA, POSTGRESSQL, AWS, GIT, NGNIX, RAILS, DJANGO, MYSQL, FLIGHT SIMULATOR, CS, ANGULARJS, REACTJS, OO, DDD, HTML5, CSS3, SASS, ANSIBLE, BATTLEFIELD, DOCKER 
 
