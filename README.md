@@ -1,6 +1,7 @@
 <img height="70" src="https://s3-sa-east-1.amazonaws.com/site-elo/files/innvent.png" >
 
-## Gostaríamos de agradecer a todos que se inscreveram, ficamos muito felizes com o número de candidatos inscritos. Neste momento, selecionamos alguns candidatos que acreditamos terem um perfil parecido com o que estamos em busca.  Em breve entraremos em contato com instruções para próxima fase do nosso processo seletivo. Aos que não foram selecionados neste momento, em breve também enviaremos um email de feedback.
+## Obrigado
+Gostaríamos de agradecer a todos que se inscreveram, ficamos muito felizes com o número de candidatos inscritos. Neste momento, selecionamos alguns candidatos que acreditamos terem um perfil parecido com o que estamos em busca.  Em breve entraremos em contato com instruções para próxima fase do nosso processo seletivo. Aos que não foram selecionados neste momento, em breve também enviaremos um email de feedback.
 
 # Quem somos?
 
