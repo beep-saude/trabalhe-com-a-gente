@@ -19,7 +19,13 @@ RUBY, PYTHON, JAVASCRITPT , SWIFT, JAVA, POSTGRESSQL, AWS, GIT, NGNIX, RAILS, DJ
 
 Depende do seu nível de conhecimento e experiência, nosso plano de cargos e salários vai de 3k à 12k  + Benefícios.
 Local de trabalho:
-Nosso escritório fica no centro do Rio, mas se você não mora na cidade maravilhosa ou gosta de trabalhar de casa, não tem problema, é possível trabalhar remoto, desde que você tenha disponibilidade para viajar vez ou outra para se reunir com o time.
+
+Nosso escritório fica no centro do Rio, ambiente super descontraido, estaço de trabalho com 2 monitores maquinas de ultima geração e um espaço exclusivo para descontração com video game, área para descanso, cerveja, suco, caf expresso e snacks liberados 
+
+<img height="100" src="https://s3.amazonaws.com/beep-assets/office1.jpeg" >
+<img height="100" src="https://s3.amazonaws.com/beep-assets/office2.jpeg" >
+<img height="100" src="https://s3.amazonaws.com/beep-assets/office3.jpeg" >
+
 
 # Se interessou?
 
