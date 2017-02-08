@@ -20,7 +20,7 @@ Local de trabalho:
 
 Nosso escritório fica no centro do Rio, ambiente super descontraido, estaço de trabalho com 2 monitores maquinas de ultima geração e um espaço exclusivo para descontração com video game, área para descanso, cerveja, suco, caf expresso e snacks liberados 
 
-<img height="180" src="https://s3.amazonaws.com/beep-assets/office3.jpeg" >
+<img height="200" src="https://s3.amazonaws.com/beep-assets/office3.jpeg" >
 <img height="180" src="https://s3.amazonaws.com/beep-assets/office1.jpeg" >
 <img height="180" src="https://s3.amazonaws.com/beep-assets/office2.jpeg" >
 
