@@ -1,5 +1,3 @@
-<img height="70" src="https://s3-sa-east-1.amazonaws.com/site-elo/files/innvent.png" >
-
 <!-- # Obrigado! 
 Gostaríamos de agradecer a todos que se inscreveram, ficamos muito felizes com o número de candidatos inscritos. Neste momento, selecionamos alguns candidatos que acreditamos terem um perfil parecido com o que estamos em busca.  Em breve entraremos em contato com instruções para próxima fase do nosso processo seletivo. Aos que não foram selecionados neste momento, em breve também enviaremos um email de feedback.-->
 
@@ -22,9 +20,9 @@ Local de trabalho:
 
 Nosso escritório fica no centro do Rio, ambiente super descontraido, estaço de trabalho com 2 monitores maquinas de ultima geração e um espaço exclusivo para descontração com video game, área para descanso, cerveja, suco, caf expresso e snacks liberados 
 
-<img height="100" src="https://s3.amazonaws.com/beep-assets/office1.jpeg" >
-<img height="100" src="https://s3.amazonaws.com/beep-assets/office2.jpeg" >
-<img height="100" src="https://s3.amazonaws.com/beep-assets/office3.jpeg" >
+<img height="150" src="https://s3.amazonaws.com/beep-assets/office1.jpeg" >
+<img height="150" src="https://s3.amazonaws.com/beep-assets/office2.jpeg" >
+<img height="150" src="https://s3.amazonaws.com/beep-assets/office3.jpeg" >
 
 
 # Se interessou?
