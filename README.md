@@ -28,7 +28,7 @@ Também temos um espaço exclusivo para descontração com video game, área par
 
 # Se interessou?
 
-Preencha o formulário abaixo e participe do nosso processo seletivo. https://goo.gl/forms/or649BOqFreR6CXa2
+Preencha o formulário abaixo e participe do nosso processo seletivo. https://goo.gl/forms/tC0VJmgTcHENFdtv2
 
 # Venha fazer parte do nosso time! 
 
