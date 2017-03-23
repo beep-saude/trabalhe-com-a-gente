@@ -1,10 +1,11 @@
 # Quem somos?
 
 Somos uma empresa de tecnologia focada em desenvolver sistemas para descomplicar o sistema de saúde brasileiro.
+<img height="300" src="https://s3.amazonaws.com/beep-assets/office1.jpg" >
 
 "Ah! A maioria dos nossos projetos hoje são web ou mobile (Android e IOS)"
 
-<img height="300" src="https://s3.amazonaws.com/beep-assets/office1.jpg" >
+
 
 # Para quem é essa vaga?
 
@@ -29,10 +30,11 @@ Nosso escritório fica no centro do Rio, ambiente super descontraido, estação 
 
 Preencha o formulário abaixo e participe do nosso processo seletivo. https://goo.gl/forms/or649BOqFreR6CXa2
 
-Se quiser saber mais da uma olhada no nosso portfólio e conheça um pouco mais dos projetos que estamos desenvolvendo:
+# Venha fazer parte do nosso time! 
 
-## Se quiser saber mais da uma olhada no nosso portfólio e conheça um pouco mais dos projetos que estamos desenvolvendo:
+<img height="250" src="https://s3.amazonaws.com/beep-assets/team.jpg" >
 
-<a href="http://www.ativore.com" target="_blank"><img height="40" src="https://s3-sa-east-1.amazonaws.com/site-elo/files/ativore.png" ></a>  &nbsp;&nbsp;  <a href="http://beepsaude.com.br" target="_blank"> <img height="50" src="https://s3-sa-east-1.amazonaws.com/site-elo/files/beep.png" ></a>  &nbsp;&nbsp;<a href="http://www.grupobrmed.com.br" target="_blank"><img height="60" src="https://s3-sa-east-1.amazonaws.com/site-elo/files/brmed.png" ></a> &nbsp;&nbsp; <a href="https://touts.com.br" target="_blank"><img height="60" src="https://s3-sa-east-1.amazonaws.com/site-elo/files/touts.png" ></a> &nbsp;&nbsp; <a href="http://minhacorridaapp.com.br" target="_blank"><img height="40" src="https://s3-sa-east-1.amazonaws.com/site-elo/files/minha-corrida.png" ></a>
+
+<a href="http://beepsaude.com.br" target="_blank"> <img height="50" src="https://s3-sa-east-1.amazonaws.com/site-elo/files/beep.png" ></a>  
 
 
