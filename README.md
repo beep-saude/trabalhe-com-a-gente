@@ -4,7 +4,7 @@ Somos uma empresa de tecnologia focada em desenvolver sistemas para descomplicar
 
 "Ah! A maioria dos nossos projetos hoje são web ou mobile (Android e IOS)"
 
-<img height="300" src="https://s3.amazonaws.com/beep-assets/office1.jpeg" >
+<img height="300" src="https://s3.amazonaws.com/beep-assets/office1.jpg" >
 
 # Para quem é essa vaga?
 
@@ -19,9 +19,11 @@ Depende do seu nível de conhecimento e experiência, nosso plano de cargos e sa
 Local de trabalho:
 Nosso escritório fica no centro do Rio, ambiente super descontraido, estação de trabalho com 2 monitores e maquinas de ultima geração. Também temos um espaço exclusivo para descontração com video game, área para descanso, cerveja, suco, café expresso e snacks liberados 
 
-<img height="300" src="https://s3.amazonaws.com/beep-assets/office3.jpeg" >
-<img height="250" src="https://s3.amazonaws.com/beep-assets/office1.jpeg" >
+<img height="300" src="https://s3.amazonaws.com/beep-assets/office1.jpeg" >
 <img height="250" src="https://s3.amazonaws.com/beep-assets/office2.jpeg" >
+<img height="250" src="https://s3.amazonaws.com/beep-assets/office3.jpeg" >
+<img height="250" src="https://s3.amazonaws.com/beep-assets/office4.jpeg" >
+<img height="250" src="https://s3.amazonaws.com/beep-assets/office5.jpeg" >
 
 # Se interessou?
 
