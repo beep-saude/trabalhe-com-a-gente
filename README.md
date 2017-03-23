@@ -32,7 +32,7 @@ Preencha o formulário abaixo e participe do nosso processo seletivo. https://go
 
 # Venha fazer parte do nosso time! 
 
-<img height="250" src="https://s3.amazonaws.com/beep-assets/team.jpg" >
+<img height="300" src="https://s3.amazonaws.com/beep-assets/team.jpg" >
 
 
 <a href="http://beepsaude.com.br" target="_blank"> <img height="50" src="https://s3-sa-east-1.amazonaws.com/site-elo/files/beep.png" ></a>  
