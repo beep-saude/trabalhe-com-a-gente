@@ -13,14 +13,17 @@ Se você é apaixonado por desenvolvimento de software, se enche de orgulho quan
 
 RUBY, PYTHON, JAVASCRITPT , SWIFT, JAVA, POSTGRESSQL, AWS, GIT, NGNIX, RAILS, DJANGO, MYSQL, FLIGHT SIMULATOR, CS, ANGULARJS, REACTJS, OO, DDD, HTML5, CSS3, SASS, ANSIBLE, BATTLEFIELD, DOCKER 
 
+<img height="300" src="https://s3.amazonaws.com/beep-assets/office0.jpg" >
+
 # Qual é a remuneração?
 
 Depende do seu nível de conhecimento e experiência, nosso plano de cargos e salários vai de 3k à 12k  + Benefícios.
 
-Local de trabalho:
-Nosso escritório fica no centro do Rio, ambiente super descontraido, estação de trabalho com 2 monitores e maquinas de ultima geração. Também temos um espaço exclusivo para descontração com video game, área para descanso, cerveja, suco, café expresso e snacks liberados 
+# Local de trabalho:
+Nosso escritório fica no centro do Rio ao lado da estação do Metrô, ambiente super descontraído. 
+Estação de trabalho com 2 monitores e maquinas de ultima geração. 
+Também temos um espaço exclusivo para descontração com video game, área para descanso, cerveja, suco, café expresso e snacks liberados 
 
-<img height="300" src="https://s3.amazonaws.com/beep-assets/office0.jpg" >
 <img height="250" src="https://s3.amazonaws.com/beep-assets/comfort_zone.jpg" >
 
 # Se interessou?
