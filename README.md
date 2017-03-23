@@ -20,7 +20,7 @@ Depende do seu nível de conhecimento e experiência, nosso plano de cargos e sa
 Local de trabalho:
 Nosso escritório fica no centro do Rio, ambiente super descontraido, estação de trabalho com 2 monitores e maquinas de ultima geração. Também temos um espaço exclusivo para descontração com video game, área para descanso, cerveja, suco, café expresso e snacks liberados 
 
-<img height="300" src="https://s3.amazonaws.com/beep-assets/office1.jpg" >
+<img height="300" src="https://s3.amazonaws.com/beep-assets/office0.jpg" >
 <img height="250" src="https://s3.amazonaws.com/beep-assets/office2.jpg" >
 <img height="250" src="https://s3.amazonaws.com/beep-assets/office3.jpg" >
 <img height="250" src="https://s3.amazonaws.com/beep-assets/office4.jpg" >
