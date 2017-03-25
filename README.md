@@ -11,7 +11,7 @@ Somos uma empresa de tecnologia focada em desenvolver sistemas para descomplicar
 
 Se você é apaixonado por desenvolvimento de software, se enche de orgulho quando vê seu trabalho resolvendo um problema real do dia a dia, tem espírito empreendedor e já teve experiência com 3 ou mais desses nomes abaixo, então essa vaga é pra você! :)
 
-RUBY, PYTHON, JAVASCRITPT , SWIFT, JAVA, POSTGRESSQL, AWS, GIT, NGNIX, RAILS, DJANGO, MYSQL, FLIGHT SIMULATOR, CS, ANGULARJS, REACTJS, OO, DDD, HTML5, CSS3, SASS, ANSIBLE, BATTLEFIELD, DOCKER 
+RUBY, PYTHON, JAVASCRIPT, SWIFT, JAVA, POSTGRESQL, AWS, GIT, NGNIX, RAILS, DJANGO, MYSQL, FLIGHT SIMULATOR, CS, ANGULARJS, REACTJS, OO, DDD, HTML5, CSS3, SASS, ANSIBLE, BATTLEFIELD, DOCKER 
 
 <img height="300" src="https://s3.amazonaws.com/beep-assets/office0.jpg" >
 
