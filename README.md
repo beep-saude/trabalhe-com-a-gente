@@ -11,29 +11,24 @@ Somos uma empresa de tecnologia focada em desenvolver sistemas para descomplicar
 
 Se você é apaixonado por desenvolvimento de software, se enche de orgulho quando vê seu trabalho resolvendo um problema real do dia a dia, tem espírito empreendedor e já teve experiência com 3 ou mais desses nomes abaixo, então essa vaga é pra você! :)
 
-RUBY, PYTHON, JAVASCRIPT, SWIFT, JAVA, POSTGRESQL, AWS, GIT, NGNIX, RAILS, DJANGO, MYSQL, FLIGHT SIMULATOR, CS, ANGULARJS, REACTJS, OO, DDD, HTML5, CSS3, SASS, ANSIBLE, BATTLEFIELD, DOCKER 
+Ruby On Rails, HTML+CSS, javascript, Vue.js, React Native, Swift, Android, Docker, Python
 
 <img height="300" src="https://s3.amazonaws.com/beep-assets/office0.jpg" >
 
 # Qual é a remuneração?
 
-Depende do seu nível de conhecimento e experiência, nosso plano de cargos e salários vai de 3k à 12k  + Benefícios.
+Depende do seu nível de conhecimento e experiência, nosso plano de cargos e salários vai de 3k a 12k  + Benefícios.
 
 # Local de trabalho:
-Nosso escritório fica no centro do Rio ao lado da estação do Metrô, ambiente super descontraído. 
-Estação de trabalho com 2 monitores e maquinas de ultima geração. 
-Também temos um espaço exclusivo para descontração com video game, área para descanso, cerveja, suco, café expresso e snacks liberados 
+Nosso escritório fica na Glória, na Zona Sul do Rio ao lado da estação do Metrô, ambiente super descontraído, moderno e charmoso. Estação de trabalho com 2 monitores e máquinas de última geração. Também temos um espaço exclusivo para descontração com videogame, área para descanso, mesa de lanches todo dia a tarde e geladeira com coisinhas gostosas liberadas. E toda sexta é o dia do cachorro-quente. 
 
 <img height="250" src="https://s3.amazonaws.com/beep-assets/comfort_zone.jpg" >
 
 # Se interessou?
 
-Preencha o formulário abaixo e participe do nosso processo seletivo. https://goo.gl/forms/tC0VJmgTcHENFdtv2
+Cadastre-se e participe do nosso processo seletivo: https://site.vagas.com.br/PagEmprCust_beep.html
 
 # Venha fazer parte do nosso time! 
-
-<img height="300" src="https://s3.amazonaws.com/beep-assets/team.jpg" >
-
 
 <a href="http://beepsaude.com.br" target="_blank"> <img height="50" src="https://s3-sa-east-1.amazonaws.com/site-elo/files/beep.png" ></a>  
 
