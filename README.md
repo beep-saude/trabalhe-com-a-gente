@@ -33,7 +33,8 @@ Cadastre-se e participe do nosso processo seletivo: https://site.vagas.com.br/Pa
 
 # Venha fazer parte do nosso time! 
 
-[linkname](https://youtu.be/hInbCYuGruU)
+[![Time Beep](https://www.beepsaude.com.br/images/midia/capa-video-institucional.png)](https://youtu.be/hInbCYuGruU)
+
 
 <a href="http://beepsaude.com.br" target="_blank"> <img height="50" src="https://s3-sa-east-1.amazonaws.com/site-elo/files/beep.png" ></a>  
 
