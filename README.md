@@ -29,7 +29,7 @@ Nosso escritório fica na Glória, na Zona Sul do Rio ao lado da estação do Me
 
 # Se interessou?
 
-Cadastre-se e participe do nosso processo seletivo: https://site.vagas.com.br/PagEmprCust_beep.html
+Envie um e-mail com o seu currículo (ou GitHub ou LinkedIn) para <rh@beepsaude.com.br>
 
 # Venha fazer parte do nosso time! 
 
